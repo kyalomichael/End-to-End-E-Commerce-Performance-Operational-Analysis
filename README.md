@@ -11,7 +11,7 @@ A 4-page Power BI dashboard, backed by a Python and SQL analysis, of one year (2
 ![Executive Overview](Executive%20Overview.png)
 ![Product Analysis](Product%20Analysis.png)
 ![Customer Segmentation](Customer%20Segmentation.png)
-![Operational Cancellations](Operational%20Cancellation.png)
+![Operational Cancellations](Operational%20Cancellations.png)
 
 ---
 
