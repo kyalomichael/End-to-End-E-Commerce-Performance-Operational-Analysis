@@ -124,4 +124,4 @@ I'm Michael Kyalo, an aspiring data analyst who enjoys turning raw transaction d
 
 **Tools:** SQL, Python (pandas), Power BI (DAX)
 
-**Connect:** [LinkedIn: linkedin.com/in/kyalo-michael-7548483b5] | [Email: mikekyalo.c@gmail.com]
+**Connect:** [LinkedIn: https://www.linkedin.com/in/kyalo-michael-7548483b5/] | [Email: mikekyalo.c@gmail.com]
