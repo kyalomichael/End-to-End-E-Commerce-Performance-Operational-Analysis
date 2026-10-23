@@ -114,3 +114,14 @@ Cancellation Rate = DIVIDE([Cancelled Orders], [Total Orders], 0)
 ### How to reproduce
 
 Put `kenyan_online_shop_data.csv` and the notebook in the same folder (or keep the repo layout), install pandas (`pip install pandas`), and run the notebook top to bottom. It creates a local SQLite database and runs every query.
+
+
+---
+
+## About Me
+
+I'm [Your Name], an aspiring data analyst who enjoys turning raw transaction data into clear answers for business owners. This project combines SQL, Python and Power BI, and I'm looking for a data analyst role where I can do the same with real business data.
+
+**Tools:** SQL, Python (pandas), Power BI (DAX)
+
+**Connect:** [LinkedIn: linkedin.com/in/kyalo-michael-7548483b5] | [Email: mikekyalo.c@gmail.com]
