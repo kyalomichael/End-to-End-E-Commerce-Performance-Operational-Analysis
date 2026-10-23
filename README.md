@@ -104,12 +104,12 @@ Cancellation Rate = DIVIDE([Cancelled Orders], [Total Orders], 0)
 
 ## Files
 
-- `notebooks/01_cleaning_and_sql_analysis.ipynb`: data cleaning and SQL analysis, with results shown
-- `sql/analysis_queries.sql`: all SQL queries used in the analysis
-- `End-to-End E-Commerce Performance & Operational Analysis.pbix`: the Power BI report (open with Power BI Desktop)
-- `*.png`: dashboard page screenshots
-- `kenyan_online_shop_data.csv`: raw data
-- `cleaned_kenyan_ecom_dataset.csv`, `clean_*.csv`: cleaned data and star-schema tables
+- [`notebooks/01_cleaning_and_sql_analysis.ipynb`](notebooks/01_cleaning_and_sql_analysis.ipynb): data cleaning and SQL analysis, with results shown
+- [`sql/analysis_queries.sql`](sql/analysis_queries.sql): all SQL queries used in the analysis
+- [`End-to-End E-Commerce Performance & Operational Analysis.pbix`](End-to-End%20E-Commerce%20Performance%20%26%20Operational%20Analysis.pbix): the Power BI report (open with Power BI Desktop)
+- Dashboard screenshots: [Executive Overview](Executive%20Overview.png), [Product Analysis](Product%20Analysis.png), [Customer Segmentation](Customer%20Segmentation.png), [Operational Cancellation](Operational%20Cancellation.png)
+- [`kenyan_online_shop_data.csv`](kenyan_online_shop_data.csv): raw data
+- [`cleaned_kenyan_ecom_dataset.csv`](cleaned_kenyan_ecom_dataset.csv), [`clean_fact_sales.csv`](clean_fact_sales.csv), [`clean_dim_customers.csv`](clean_dim_customers.csv), [`clean_dim_products.csv`](clean_dim_products.csv), [`clean_dim_date.csv`](clean_dim_date.csv): cleaned data and star-schema tables
 
 ### How to reproduce
 
